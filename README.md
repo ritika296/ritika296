@@ -281,7 +281,7 @@ Data & Business Analytics is my current focus — the engineering stack below is
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritika296&show_icons=true&hide_border=true&theme=tokyonight&title_color=14b8a6&icon_color=6f42c1"/>
+
 
 </div>
 
