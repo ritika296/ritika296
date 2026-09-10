@@ -40,7 +40,7 @@
 <br/>
 
 <!-- ╔═══════════ TYPING SUBTITLE ═══════════╗ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&random=false&width=850&lines=Data+%26+Business+Analytics+Professional;PGDM+in+Data+%26+Business+Analytics%2C+JAGSoM;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&random=false&width=850&lines=Data+%26+Business+Analytics+Professional;PGDM+in+Data+%26+Business+Analytics%2C+JAGSoM;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -98,6 +98,25 @@ I'm a data & business analytics professional who bridges technical analysis with
 
 ---
 
+<!-- ╔═══════════ EDUCATION & DOMAIN EXPERTISE ═══════════╗ -->
+
+## 🎓 Education & Domain Expertise
+
+<div align="center">
+
+| Program / Qualification | Specialty & Focus Area | Key Technical & Analytical Competencies |
+|:---|:---|:---|
+| **PGDM — Data & Business Analytics** 📊 <br/>*(2025–Present)* | Business Intelligence & Decision Science | Power BI & Tableau Dashboarding · Predictive Analytics · Business Strategy |
+| **B.E. Information Science** 🎓 <br/>*(VTU, 2018–2022)* | Software & Systems Foundation | Data Wrangling · DBMS & SQL · Web Fundamentals |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Strategic_Value-Engineering_Foundation_×_Business_Analytics_=_Data--Driven_Decisions-6f42c1?style=for-the-badge"/>
+
+</div>
+
+---
+
 <!-- ╔═══════════ PORTFOLIO SPOTLIGHT ═══════════╗ -->
 
 ## 🌐 Personal Portfolio Spotlight
@@ -107,13 +126,13 @@ I'm a data & business analytics professional who bridges technical analysis with
 <table border="0" width="100%" style="max-width: 850px;">
   <tr>
     <td align="center" style="background: #0d1117; border-radius: 16px; padding: 28px 24px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
-      <h3 style="color: #ffffff; margin: 0 0 10px 0;">🌐 Interactive Personal Portfolio Showcase</h3>
-      <p style="color: #8b949e; margin: 0 0 14px 0; font-size: 14px; max-width: 650px;">
+      <h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 22px;">🌐 Interactive Personal Portfolio Showcase</h3>
+      <p style="color: #8b949e; margin: 0 0 14px 0; font-size: 15px; max-width: 650px;">
         Explore my data analytics, BI dashboarding, and business strategy projects.
       </p>
       <p style="margin: 0 0 16px 0;">
         <a href="https://ritika296.github.io/portfolio/" target="_blank" style="text-decoration: none;">
-          <font color="#14b8a6" size="3"><b>🔗 ritika296.github.io/portfolio</b></font>
+          <font color="#14b8a6" size="4"><b>🔗 ritika296.github.io/portfolio</b></font>
         </a>
       </p>
       <p style="color: #c9d1d9; margin: 0 0 20px 0; font-size: 13px;">
@@ -129,25 +148,6 @@ I'm a data & business analytics professional who bridges technical analysis with
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<!-- ╔═══════════ EDUCATION & DOMAIN EXPERTISE ═══════════╗ -->
-
-## 🎓 Education & Domain Expertise
-
-<div align="center">
-
-| Program / Qualification | Specialty & Focus Area | Key Technical & Analytical Competencies |
-|:---|:---|:---|
-| **PGDM — Data & Business Analytics** 📊 <br/>*(2025–Present)* | Business Intelligence & Decision Science | Power BI & Tableau Dashboarding · Predictive Analytics · Business Strategy |
-| **B.E. Information Science** 🎓 <br/>*(VTU, 2018–2022)* | Software & Systems Foundation | Data Wrangling · DBMS & SQL · Web Fundamentals |
-
-<br/>
-
-<img src="https://img.shields.io/badge/Strategic_Value-Engineering_Foundation_×_Business_Analytics_=_Data--Driven_Decisions-6f42c1?style=for-the-badge"/>
 
 </div>
 
@@ -175,9 +175,11 @@ I'm a data & business analytics professional who bridges technical analysis with
 
 ### ⚙️ Platforms & Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="45" height="45"/>
 </p>
 
 </div>
