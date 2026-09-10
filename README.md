@@ -9,9 +9,9 @@
 
 <table border="0" style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 850px;">
   <tr>
-    <td align="center" width="220" style="background: #0d1117; border-radius: 20px; padding: 24px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
+    <td align="center" width="300" style="background: #0d1117; border-radius: 20px; padding: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
       <a href="https://github.com/ritika296">
-        <img src="./photo.png" width="220" height="220" style="border-radius: 50%; border: 3px solid #14b8a6; box-shadow: 0 0 15px rgba(20,184,166,0.5);" alt="Ritika Prakash Profile Photo"/>
+        <img src="./photo.png" width="260" height="260" style="border-radius: 50%; border: 3px solid #14b8a6; box-shadow: 0 0 15px rgba(20,184,166,0.5);" alt="Ritika Prakash Profile Photo"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Status-Open_for_Roles_%26_Internships-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status"/>
