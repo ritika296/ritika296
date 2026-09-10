@@ -40,7 +40,7 @@
 <br/>
 
 <!-- ╔═══════════ TYPING SUBTITLE ═══════════╗ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&random=false&width=850&lines=Data+%26+Business+Analytics+Professional;PGDM+in+Data+%26+Business+Analytics%2C+JAGSoM;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&random=false&width=850&lines=Data+%26+Business+Analytics+Professional;From+Engineering+to+Client-Facing+Consulting+to+Data+Science;PGDM+in+Data+%26+Business+Analytics%2C+JAGSoM;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -174,9 +174,9 @@ Data & Business Analytics is my current focus — the engineering stack below is
 **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark&perline=6"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="oracle" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" alt="cassandra" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="sql server" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 **BI & Data Visualization**
@@ -186,9 +186,9 @@ Data & Business Analytics is my current focus — the engineering stack below is
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" alt="d3.js" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chart.js" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 **Platforms**
