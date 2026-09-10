@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:6f42c1&height=160&section=header&text=Ritika%20Prakash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turning%20Data%20into%20Business%20Insights&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:14b8a6&height=160&section=header&text=Ritika%20Prakash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turning%20Data%20into%20Business%20Insights&descAlignY=62&descSize=18"/>
 
 <img src="./photo.png" width="130" height="130" style="border-radius:50%; border: 3px solid #14b8a6;"/>
 
@@ -27,6 +27,25 @@ I work at the intersection of **data analysis, BI dashboarding, and business str
 - 🛡️ An AI guardrail system for a student-support chatbot
 - 🧘 Analytics Lead on a capstone with a meditation-tech startup
 - 📈 A dynamic Bass diffusion model for an FMCG product launch
+
+---
+
+## 🛠️ Tools I Use
+
+<p>
+<img src="https://img.shields.io/badge/Python-6f42c1?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-6f42c1?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-6f42c1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-14b8a6?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-14b8a6?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-14b8a6?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-6f42c1?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_ML-14b8a6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-6f42c1?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-14b8a6?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-6f42c1?style=flat-square&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-14b8a6?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
@@ -95,29 +114,10 @@ Dashboard on genre trends and content library shifts, built on a Kaggle dataset.
 
 ---
 
-## 🛠️ Tools I Use
-
-<p>
-<img src="https://img.shields.io/badge/Python-14b8a6?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-14b8a6?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-14b8a6?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-6f42c1?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-6f42c1?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-6f42c1?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-14b8a6?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_ML-6f42c1?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-14b8a6?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JIRA-6f42c1?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-14b8a6?style=flat-square&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-6f42c1?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-
----
-
 ## 📊 GitHub Snapshot
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritika296&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=6f42c1&text_color=333333"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritika296&show_icons=true&hide_border=true&title_color=6f42c1&icon_color=14b8a6&text_color=333333"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:14b8a6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:6f42c1&height=100&section=footer"/>
