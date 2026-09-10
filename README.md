@@ -1,28 +1,58 @@
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--          RITIKA PRAKASH · DATA & BUSINESS ANALYTICS README      -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Swap this for your own headshot: add a photo to the repo and change the path below -->
-<!-- <img src="your-photo.png" width="150" style="border-radius:50%"/> -->
+<br/>
 
-# 👋 Hello, I'm Ritika Prakash
+<table border="0" style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 850px;">
+  <tr>
+    <td align="center" width="220" style="background: #0d1117; border-radius: 20px; padding: 24px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
+      <!-- Add your own photo to the repo and update the src below -->
+      <!-- <img src="./photo.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #14b8a6; box-shadow: 0 0 15px rgba(20,184,166,0.5);" alt="Ritika Prakash"/> -->
+      <img src="https://img.shields.io/badge/Status-Open_for_Roles_%26_Internships-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+    </td>
+    <td align="left" style="padding: 24px; background: #0d1117; border-radius: 20px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
+      <h2>👋 Hello, I'm <font color="#14b8a6">Ritika Prakash</font></h2>
+      <p><b>Turning Data into Business Insights</b> — combining analytical rigor with business strategy to solve real problems.</p>
+      <p>
+        🎓 <b>B.E. Information Science, VTU</b><br/>
+        📊 <b>PGDM in Data & Business Analytics, JAGSoM</b><br/>
+        📈 <b>Data Analyst · BI Dashboarding · Business Strategy</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Turning Data into Business Insights** — bridging analytics, business strategy, and technology to solve real problems.
+<br/>
 
-`STATUS:` ![Open](https://img.shields.io/badge/OPEN_FOR_ROLES_%26_INTERNSHIPS-14b8a6?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&random=false&width=850&lines=Data+%26+Business+Analytics+Professional;PGDM+in+Data+%26+Business+Analytics%2C+JAGSoM;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL;Turning+Data+into+Business+Insights" alt="Typing SVG"/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://ritika296.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritika-prakash-b15860204)
-[![GitHub](https://img.shields.io/badge/GITHUB-RITIKA296-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritika296)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikaprakash296@gmail.com)
+<br/><br/>
 
-### `Turning Data into Business Insights`
+<p align="center">
+  <a href="https://ritika296.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/ritika-prakash-b15860204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ritika296" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ritikaprakash296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🧑‍💻 Executive Summary (`> whoami`)
+## 👩‍💻 Executive Summary (`> whoami`)
 
-```
+```yaml
 Name       : Ritika Prakash
 Location   : Bengaluru, India 🇮🇳
 Education  :
@@ -34,46 +64,99 @@ Expertise  :
   - Business Strategy & Decision Science
 Links      :
   - Portfolio : ritika296.github.io/portfolio 🌐
-  - GitHub    : github.com/ritika296
 Contact    : ritikaprakash296@gmail.com
 ```
 
 ---
 
-## 🌐 Portfolio Spotlight
+## 🌟 Professional Overview
 
-<table align="center">
-<tr><td align="center">
+I'm a data & business analytics professional who bridges technical analysis with business thinking — combining Python/SQL-driven modeling with BI dashboarding and stakeholder communication to turn raw data into decisions.
 
-### Interactive Personal Portfolio
-
-Explore my data analytics, BI dashboarding, and business strategy projects — built with React, Vite & Tailwind.
-
-**🔗 [ritika296.github.io/portfolio](https://ritika296.github.io/portfolio/)**
-
-🧠 Analytics Projects &nbsp;·&nbsp; 📊 BI Dashboards &nbsp;·&nbsp; 💼 Business Case Studies
-
-[![Visit Portfolio](https://img.shields.io/badge/🌐_VISIT_LIVE_PORTFOLIO-14b8a6?style=for-the-badge)](https://ritika296.github.io/portfolio/)
-
-</td></tr>
-</table>
+* 📊 **Current Focus:** Business analytics coursework spanning corporate finance, predictive modeling, digital marketing, and BI strategy
+* 🧠 **Specialized Domains:** Power BI & Tableau dashboarding, SQL/PostgreSQL data modeling, Python for analytics, financial analytics
+* 🚀 **Recent Work:** Capstone research with a meditation-tech startup (Analytics Lead), a dynamic Bass diffusion model for an FMCG launch, and an AI guardrails project for a student-support chatbot
 
 ---
 
-## 🎓 Education & Experience
-
-| Program / Role | Institution | Focus |
-|---|---|---|
-| 📊 **PGDM Data & Business Analytics** | JAGSoM (2025–Present) | BI, predictive modeling, business strategy |
-| 🎓 **B.E. Information Science** | AMC Engineering College, VTU (2018–2022) | Engineering foundation |
-| 💼 **Data Analyst** | Bluestock, Bangalore (Apr–Jul 2026) | Mutual fund & Nifty100 analytics platform |
-| 💼 **Data Analyst Intern** | Unified Mentor Pvt. Ltd (Aug–Sept 2024) | Hospitality, sales & health analytics |
-| 💼 **Power BI Intern** | Cognifyz Technologies (Sept–Oct 2024) | Investment behavior dashboards |
-| 💼 **Technical Support Engineer** | Finfolab (Jun 2022–Jun 2024) | RCA, client support, documentation |
+## 🌐 Personal Portfolio Spotlight
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/COMPUTER_SCIENCE_FOUNDATION_×_BUSINESS_ANALYTICS-%3D_DATA--DRIVEN_STRATEGY-181717?style=for-the-badge)
+<table border="0" width="100%" style="max-width: 850px;">
+  <tr>
+    <td align="center" style="background: #0d1117; border-radius: 16px; padding: 28px 24px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+      <h3 style="color: #ffffff; margin: 0 0 10px 0;">🌐 Interactive Personal Portfolio</h3>
+      <p style="color: #8b949e; margin: 0 0 14px 0; font-size: 14px; max-width: 650px;">
+        Explore my data analytics, BI dashboarding, and business strategy projects.
+      </p>
+      <p style="margin: 0 0 16px 0;">
+        <a href="https://ritika296.github.io/portfolio/" target="_blank" style="text-decoration: none;">
+          <font color="#14b8a6" size="3"><b>🔗 ritika296.github.io/portfolio</b></font>
+        </a>
+      </p>
+      <p style="color: #c9d1d9; margin: 0 0 20px 0; font-size: 13px;">
+        📊 <b>BI Dashboards</b> &nbsp;•&nbsp;
+        🧠 <b>Analytics Projects</b> &nbsp;•&nbsp;
+        💼 <b>Business Case Studies</b>
+      </p>
+      <p style="margin: 0;">
+        <a href="https://ritika296.github.io/portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Live Portfolio"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Education & Domain Expertise
+
+<div align="center">
+
+| Program / Qualification | Specialty & Focus Area | Key Competencies |
+|:---|:---|:---|
+| **PGDM — Data & Business Analytics** 📊 <br/>*(2025–Present)* | Business Intelligence & Decision Science | Power BI & Tableau Dashboarding · Predictive Analytics · Business Strategy |
+| **B.E. Information Science** 🎓 <br/>*(VTU, 2018–2022)* | Software & Systems Foundation | Data Wrangling · DBMS & SQL · Web Fundamentals |
+
+</div>
+
+---
+
+## 🛠️ Technical & Analytical Stack
+
+<div align="center">
+
+### 💻 Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark&perline=6"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📊 Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 </div>
 
@@ -81,76 +164,83 @@ Explore my data analytics, BI dashboarding, and business strategy projects — b
 
 ## 🚀 Featured Projects
 
-| Project | Highlights | Tech Stack |
-|---|---|---|
-| 💹 **Mutual Fund & Nifty100 Analytics** | End-to-end financial analytics platform — NAV, AUM, SIP inflows, portfolio performance | `Python` `SQL` `PostgreSQL` `Power BI` |
-| 🏏 **Cricket Dream Team Analyzer** | Scraped & modeled T20 player data to select a data-driven "Best 11" | `Python` `Power BI` |
-| 🎬 **Netflix Content Analysis** | Interactive dashboard on genre trends & content library shifts (Kaggle dataset) | `Tableau` |
-| 🛡️ **AI Guardrails** | Layered guardrail system (rule-based + LLM classifier + safety layer) protecting a student-support chatbot | `Python` `FastAPI` `Next.js` `Grok API` |
-| 📈 **Dynamic Bass Diffusion Model** | Time-varying Bass model of an FMCG product launch using marketing & word-of-mouth signals | `Python` |
-| 🧘 **ManasAI Capstone (SakshiSense)** | Analytics Lead on evidence-based go-to-market research for a meditation-tech startup | `Research` `Evidence Design` |
+| Project | Key Highlights | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| 💹 **Mutual Fund & Nifty100 Analytics** | End-to-end financial analytics platform — NAV, AUM, SIP inflows, portfolio performance | Python · SQL · PostgreSQL · Power BI | `Completed` |
+| 🏏 **Cricket Dream Team Analyzer** | Scraped & modeled T20 player data to select a data-driven "Best 11" | Python · Power BI | `Completed` |
+| 🎬 **Netflix Content Analysis** | Interactive dashboard on genre trends & content library shifts (Kaggle dataset) | Tableau | `Completed` |
+| 🛡️ **AI Guardrails** | Layered guardrail system (rule-based + LLM classifier + safety layer) protecting a student-support chatbot | Python · FastAPI · Next.js · Grok API | `In Progress` |
+| 📈 **Dynamic Bass Diffusion Model** | Time-varying Bass model of an FMCG product launch using marketing & word-of-mouth signals | Python | `In Progress` |
+| 🧘 **ManasAI Capstone (SakshiSense)** | Analytics Lead on evidence-based go-to-market research for a meditation-tech startup | Research · Evidence Design | `In Progress` |
 
 ---
 
-## 🛠️ Technical & Analytical Stack
-
-**Languages & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Business Intelligence & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tableau/E97627" alt="tableau" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📜 Certifications
-
-- 🏅 Microsoft Business Analyst Professional Certificate
-- 🏅 Google Data Analytics Professional Certificate
-- 🏅 Lean Six Sigma — Green Belt (Packt)
-- 🏅 Qlik Sense — Advanced (Packt)
-- 🏅 Power BI Essential Training & Tableau Essential Training (LinkedIn Learning)
-- 🏅 Career Essentials in Data Analysis (Microsoft & LinkedIn)
-
----
+## 🌟 Community & Social Impact
 
 <div align="center">
 
-📫 **Let's connect:** [ritikaprakash296@gmail.com](mailto:ritikaprakash296@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ritika-prakash-b15860204)
+| Initiative | Contribution | Role |
+|:---|:---|:---:|
+| 🤝 **HOPE NGO (Hosur, Tamil Nadu)** | Social Immersion Programme project on water hyacinth circular economy — field research, outreach funnel, expert validation | *Student Contributor* |
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ritika296&theme=tokyonight&border_radius=10&ring=14b8a6&fire=6f42c1&currStreakLabel=14b8a6" height="190"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika296&theme=react-dark&bg_color=0d1117&color=14b8a6&line=6f42c1&point=a78bfa&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<!--
+Optional: Contribution Snake animation.
+This needs a small GitHub Action set up in your ritika296/ritika296 repo
+(see https://github.com/Platane/snk for the workflow file) — without it,
+this image will just show broken.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritika296/ritika296/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ritika296/ritika296/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+</div>
+-->
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p align="center">
+  <a href="https://ritika296.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ritika-prakash-b15860204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ritikaprakash296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+> *"Turning Data into Business Insights."*
+
+<br/>
+
+⭐ **Thanks for stopping by!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer&text=Ritika%20Prakash%20%C2%B7%20&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
