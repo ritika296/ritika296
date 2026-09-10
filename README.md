@@ -159,14 +159,9 @@ I'm a data & business analytics professional who bridges technical analysis with
 
 <div align="center">
 
-### 💻 Languages & Databases
+### 💻 Languages, Databases & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark&perline=6"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github&theme=dark&perline=6"/>
 </p>
 
 ### 📊 Business Intelligence, Data Analytics & Visualization
