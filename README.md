@@ -66,7 +66,7 @@
 
 <!-- ╔═══════════ EXECUTIVE SUMMARY ═══════════╗ -->
 
-## 👩‍💻 Executive Summary (`> whoami`)
+## 👩‍💻 Executive Summary 
 
 ```yaml
 Name       : Ritika Prakash
