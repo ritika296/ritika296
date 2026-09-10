@@ -21,7 +21,9 @@
 
 ## 🎯 About Me
 
-I work at the intersection of **data analysis, BI dashboarding, and business strategy** — turning messy spreadsheets and databases into decisions people can act on. Currently pursuing my PGDM in Data & Business Analytics at JAGSoM, Bengaluru.
+I work at the intersection of **data analysis, BI dashboarding, and business strategy**. I'm particularly interested in building systems that turn messy data into decisions — whether that's a dashboard, a diffusion model, or a guardrail layer for an AI product.
+
+Currently pursuing a **PGDM in Data & Business Analytics** at Jagdish Sheth School of Management (JAGSoM), Bengaluru.
 
 **Right now I'm working on:**
 - 🛡️ An AI guardrail system for a student-support chatbot
@@ -30,22 +32,17 @@ I work at the intersection of **data analysis, BI dashboarding, and business str
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Technical Skills
 
-<p>
-<img src="https://img.shields.io/badge/Python-6f42c1?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-6f42c1?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-6f42c1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-14b8a6?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-14b8a6?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-14b8a6?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-6f42c1?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_ML-14b8a6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-6f42c1?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JIRA-14b8a6?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-6f42c1?style=flat-square&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-14b8a6?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
+**Languages:** Python, R, SQL
+
+**Data & Analytics:** Data Wrangling & Cleaning, Statistical Analysis, Predictive Modeling, Business Intelligence
+
+**Analytics Tools:** Power BI, Tableau, Microsoft Excel, Jupyter Notebook, Azure ML
+
+**Databases:** MySQL, PostgreSQL
+
+**Platforms:** Git, GitHub, JIRA, Confluence, Grafana
 
 ---
 
@@ -91,26 +88,15 @@ Dashboard on genre trends and content library shifts, built on a Kaggle dataset.
 
 ## 🎓 Background
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Experience**
-- Data Analyst @ Bluestock, Bangalore (2026)
-- Data Analyst Intern @ Unified Mentor (2024)
-- Power BI Intern @ Cognifyz Technologies (2024)
-- Technical Support Engineer @ Finfolab (2022–2024)
-
-</td>
-<td width="50%" valign="top">
+- **Data Analyst** @ Bluestock, Bangalore (2026) — end-to-end mutual fund & Nifty100 analytics platform; star schema design, SQL, Power BI
+- **Data Analyst Intern** @ Unified Mentor (2024) — hospitality, sales & health analytics projects
+- **Power BI Intern** @ Cognifyz Technologies (2024) — investment behavior dashboards
+- **Technical Support Engineer** @ Finfolab (2022–2024) — RCA, client support, documentation
 
 **Education**
 - PGDM, Data & Business Analytics — JAGSoM (2025–Present)
 - B.E. Information Science — VTU (2018–2022)
-
-</td>
-</tr>
-</table>
 
 ---
 
