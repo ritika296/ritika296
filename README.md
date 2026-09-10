@@ -94,6 +94,7 @@ I'm a data & business analytics professional who bridges technical analysis with
 * 🌐 **Interactive Portfolio:** [ritika296.github.io/portfolio](https://ritika296.github.io/portfolio/)
 * 🚀 **Current Focus:** Business analytics coursework spanning corporate finance, predictive modeling, digital marketing, and BI strategy
 * 🧠 **Specialized Domains:** Power BI & Tableau dashboarding, SQL/PostgreSQL data modeling, Python for analytics, financial analytics
+* 📈 **Data & ML:** Machine Learning, NLP, Time-Series Forecasting, Data Cleaning, Statistical Analysis
 * ⚡ **Recent Work:** Capstone research with a meditation-tech startup (Analytics Lead), a dynamic Bass diffusion model for an FMCG launch, and an AI guardrails project for a student-support chatbot
 
 ---
@@ -157,29 +158,71 @@ I'm a data & business analytics professional who bridges technical analysis with
 
 ## 🛠️ Technical & Analytical Stack
 
-<div align="center">
-
-### 💻 Languages, Databases & Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github&theme=dark&perline=6"/>
+<p align="center" style="color:#8b949e; font-size:14px;">
+Data & Business Analytics is my current focus — the engineering stack below is from my B.E. in Information Science.
 </p>
 
-### 📊 Business Intelligence, Data Analytics & Visualization
+<div align="center">
+
+### 📊 Data & Business Analytics Focus
+
+**Data & ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark&perline=6"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark&perline=6"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="oracle" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" alt="cassandra" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="sql server" width="48" height="48"/>
+</p>
+
+**BI & Data Visualization**
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" alt="d3.js" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chart.js" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="48" height="48"/>
 </p>
 
-### ⚙️ Platforms & Developer Tools
+**Platforms**
 <p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark&perline=6"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="45" height="45"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="48" height="48"/>
+</p>
+
+<br/>
+
+### 💻 Engineering Foundation (B.E. Information Science)
+
+**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,js,ts,php&theme=dark&perline=6"/>
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,sass&theme=dark&perline=6"/>
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,docker&theme=dark&perline=6"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="kafka" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="hadoop" width="48" height="48"/>
+</p>
+
+**Mobile App Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=android,flutter,react&theme=dark&perline=6"/>
 </p>
 
 </div>
