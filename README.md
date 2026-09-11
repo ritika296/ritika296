@@ -9,14 +9,7 @@
 
 <table border="0" style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 850px;">
   <tr>
-    <td align="center" width="300" style="background: #0d1117; border-radius: 20px; padding: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
-      <a href="https://github.com/ritika296">
-        <img src="./photo.png" width="260" height="260" style="border-radius: 50%; border: 3px solid #14b8a6; box-shadow: 0 0 15px rgba(20,184,166,0.5);" alt="Ritika Prakash Profile Photo"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Open_for_Roles_%26_Internships-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-    </td>
-    <td align="left" style="padding: 24px; background: #0d1117; border-radius: 20px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
+    <td align="center" style="padding: 24px; background: #0d1117; border-radius: 20px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4); vertical-align: middle;">
       <h2>👋 Hello, I'm <font color="#14b8a6">Ritika Prakash</font></h2>
       <p><b>Turning Data into Business Insights</b> — combining analytical rigor with business strategy to solve real problems.</p>
       <p>
@@ -24,6 +17,7 @@
         📊 <b>PGDM in Data & Business Analytics, JAGSoM</b><br/>
         📈 <b>Data Analyst · BI Dashboarding · Business Strategy</b>
       </p>
+      <img src="https://img.shields.io/badge/Status-Open_for_Roles_%26_Internships-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status"/>
       <p style="margin-top: 15px;">
         <a href="https://ritika296.github.io/portfolio/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-ritika296.github.io%2Fportfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -66,7 +60,7 @@
 
 <!-- ╔═══════════ EXECUTIVE SUMMARY ═══════════╗ -->
 
-## 👩‍💻 Executive Summary 
+## 👩‍💻 Executive Summary (`> whoami`)
 
 ```yaml
 Name       : Ritika Prakash
@@ -281,7 +275,7 @@ Data & Business Analytics is my current focus — the engineering stack below is
 
 <br/><br/>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=ritika296&show_icons=true&hide_border=true&theme=tokyonight&title_color=14b8a6&icon_color=6f42c1"/>
 
 </div>
 
