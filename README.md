@@ -199,25 +199,22 @@ Data & Business Analytics is my current focus — the engineering stack below is
 
 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,js,ts,php&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,js,ts,php&theme=dark&perline=6"/>
 </p>
 
 **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,sass&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,sass&theme=dark&perline=6"/>
 </p>
 
 **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,docker&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=6"/>
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="kafka" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="hadoop" width="48" height="48"/>
 </p>
 
-**Mobile App Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=android,flutter,react&theme=dark&perline=6"/>
-</p>
+
 
 </div>
 
